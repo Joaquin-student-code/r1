@@ -365,6 +365,24 @@
 	margin-bottom: 500px;
 }
 
+.cpp{
+	display: none;
+	font-family: 'Playfair Display', serif;
+	font-weight: 400px;
+	font-style: italic;
+	margin-top: 20px;
+	font-size: 20px;
+	margin-bottom: 500px;
+}
+
+.page div{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
 .page div{
 	display: flex;
 	justify-content: center;
