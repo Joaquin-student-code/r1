@@ -383,10 +383,10 @@
 	margin-right: 300px;
 }
 
-.page div{
+.cpage div{
 	display: flex;
-	justify-content: center;
-	text-align: center;
+	justify-content: left;
+	text-align: left;
 	margin-left: 300px;
 	margin-right: 300px;
 }
