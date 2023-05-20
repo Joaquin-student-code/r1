@@ -337,8 +337,8 @@
 
 .pfp{
 	display: inline-block;
-	height: 30%;
-	width: 20%;
+	height: 45%;
+	width: 30%;
 }
 
 .t1{
@@ -362,6 +362,16 @@
 }
 
 .pp{
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-style: italic;
+	margin-top: 20px;
+	line-height: 60px;
+	font-size: 20px;
+	margin-bottom: 500px;
+}
+
+.ipp{
 	font-family: 'Playfair Display', serif;
 	font-weight: 400;
 	font-style: italic;
