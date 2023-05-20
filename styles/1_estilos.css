@@ -335,6 +335,12 @@
 	margin-bottom: 50px;
 }
 
+.pfp{
+	display: inline-block;
+	height: 30%;
+	width: 20%;
+}
+
 .t1{
 	display: block;
 	margin-top: 200px;
