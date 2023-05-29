@@ -355,6 +355,14 @@
 	font-family: 'Playfair Display', serif;
 }
 
+.tc{
+	display: block;
+	margin-top: 200px;
+	font-size: 30px;
+	color: #ffffff;
+	margin-bottom: 500px;
+}
+
 .pp{
 	font-family: 'Playfair Display', serif;
 	font-weight: 400;
