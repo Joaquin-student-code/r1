@@ -18,7 +18,6 @@ body {
 }
 
 html {
-  scroll-behavior: -webkit-smooth-scrolling: touch;
   scroll-behavior: smooth;
 }
 
