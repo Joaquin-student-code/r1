@@ -33,10 +33,6 @@ html {
 	z-index: -2;
  }
 
- html{
-	scroll-behavior: smooth;
- }
-
  section[id]{
 	scroll-margin-top: 60px;
  }
