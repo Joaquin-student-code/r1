@@ -1,19 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Raleway|Montserrat+Alternates|Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&display=swap');
 
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-	font-family: 'montserrat alternates';
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat Alternates';
 }
- body{
-	background: fixed, url();
-	background-size: 100vw 100vh;
-	background-repeat: no-repeat;
-	text-decoration: none;
-	position: relative;
- }
+
+body {
+  background: fixed, url();
+  background-size: 100vw 100vh;
+  background-repeat: no-repeat;
+  text-decoration: none;
+  position: relative;
+  scroll-behavior: smooth;
+}
 
  .fondop1{
 	display: block;
