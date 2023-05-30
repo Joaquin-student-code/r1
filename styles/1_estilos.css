@@ -17,6 +17,11 @@ body {
   scroll-behavior: smooth;
 }
 
+html {
+  scroll-behavior: -webkit-smooth-scrolling: touch;
+  scroll-behavior: smooth;
+}
+
  .fondop1{
 	display: block;
 	position: fixed;
