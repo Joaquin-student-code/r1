@@ -17,15 +17,6 @@ body {
   scroll-behavior: smooth;
 }
 
-section[id] {
-  scroll-margin-top: 60px;
-  height: 100vh;
-}
-
-.section-container {
-  height: 100vh;
-}
-
 html {
   scroll-behavior: -webkit-smooth-scrolling: touch;
   scroll-behavior: smooth;
